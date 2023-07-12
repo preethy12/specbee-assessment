@@ -1,0 +1,9 @@
+specbee_assessment.settings_form:
+  path: '/config/specbee-assessment'
+  defaults:
+    _title: 'Specbee assessment settings'
+    _form: 'Drupal\specbee_assessment\Form\SettingsForm'
+  requirements:
+    _permission: 'access content'
+  options:
+    _admin_route: true

@@ -1,0 +1,5 @@
+name: Specbee assessment
+type: module
+description: CThis is Specbeee assesment module
+package: Custom
+core_version_requirement: ^9 || ^10
